@@ -31,7 +31,6 @@ const employees = [
     reviewRating: 1
   }
 ];
-
 //console.log('array of employee data: ',  employees );
 
 // YOU SHOULD NOT NEED TO CHANGE ANYTHING ABOVE THIS POINT
@@ -119,4 +118,3 @@ function calculateIndividualEmployeeBonus( employee ) {
   return newObj;
 }
 
-//console.log(loopOverEmployees(employees))
